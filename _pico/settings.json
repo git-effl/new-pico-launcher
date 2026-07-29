@@ -1,0 +1,12 @@
+{
+  "language": "english",
+  "romBrowserLayout": "HorizontalIconGrid",
+  "romBrowserSortMode": "NameAscending",
+  "theme": "brewing-waves",
+  "lastUsedFilePath": "sd:/ntrboot.nds",
+  "fileAssociations": {
+    "nds": {
+      "appPath": "/_pico/nds-bootstrap-release.nds"
+    }
+  }
+}
