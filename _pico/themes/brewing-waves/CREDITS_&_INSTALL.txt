@@ -1,0 +1,48 @@
+==================================================
+   Generated with Pico Launcher Theme Creator     
+==================================================
+
+App URL: https://santiagovalencia109.github.io/pl-Theme-Creator/
+GitHub Repository: https://github.com/santiagovalencia109/pl-Theme-Creator/
+
+--------------------------------------------------
+[EN] HOW TO INSTALL YOUR THEME
+--------------------------------------------------
+1. Prepare the Theme Folder: 
+   Extract the downloaded .zip file into a single folder. 
+   Give that folder the name you want for your theme.
+
+2. Transfer to SD Card: 
+   Connect your SD card and navigate to /_pico/themes/. 
+   Copy and paste your theme folder into this location.
+
+3. Configure settings.json:
+   Go back to the /_pico/ root folder on your SD card.
+   Open settings.json with a text editor.
+   Find the "theme" entry and change its value to match 
+   your theme folder's name (e.g., "theme": "MyTheme").
+
+4. Launch:
+   Save the file and restart Pico Launcher to enjoy!
+
+--------------------------------------------------
+[ES] CÓMO INSTALAR TU TEMA
+--------------------------------------------------
+1. Prepara la carpeta del tema:
+   Extrae el archivo .zip descargado en una carpeta.
+   Dale a esa carpeta el nombre que quieras para tu tema.
+
+2. Transfiere a la Tarjeta SD:
+   Conecta tu tarjeta SD y ve al directorio /_pico/themes/.
+   Copia y pega la carpeta de tu tema en esta ubicación.
+
+3. Configura settings.json:
+   Regresa a la carpeta raíz /_pico/ de tu tarjeta SD.
+   Abre settings.json con un editor de texto.
+   Busca la entrada "theme" y cambia su valor para que 
+   coincida con el nombre de tu carpeta (ej: "theme": "MiTema").
+
+4. Iniciar:
+   Guarda el archivo y reinicia el Pico Launcher para disfrutar.
+
+==================================================

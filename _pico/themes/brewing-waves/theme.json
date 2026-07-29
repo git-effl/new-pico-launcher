@@ -1,0 +1,132 @@
+{
+    "type": "custom",
+    "name": "Brewing Waves",
+    "description": "Default theme for the Homebrew Unlauncher.",
+    "author": "effL",
+    "primaryColor": {
+        "r": 0,
+        "g": 160,
+        "b": 184
+    },
+    "darkTheme": false,
+    "topIcon": {
+        "position": {
+            "x": 24,
+            "y": 132
+        },
+        "blendColor": {
+            "r": 200,
+            "g": 200,
+            "b": 200
+        }
+    },
+    "topBannerTextLine0": {
+        "position": {
+            "x": 70,
+            "y": 126
+        },
+        "width": 176,
+        "textColor": {
+            "r": 30,
+            "g": 30,
+            "b": 30
+        },
+        "blendColor": {
+            "r": 200,
+            "g": 200,
+            "b": 200
+        }
+    },
+    "topBannerTextLine1": {
+        "position": {
+            "x": 70,
+            "y": 141
+        },
+        "width": 176,
+        "textColor": {
+            "r": 30,
+            "g": 30,
+            "b": 30
+        },
+        "blendColor": {
+            "r": 200,
+            "g": 200,
+            "b": 200
+        }
+    },
+    "topBannerTextLine2": {
+        "position": {
+            "x": 70,
+            "y": 155
+        },
+        "width": 176,
+        "textColor": {
+            "r": 30,
+            "g": 30,
+            "b": 30
+        },
+        "blendColor": {
+            "r": 200,
+            "g": 200,
+            "b": 200
+        }
+    },
+    "topFileNameText": {
+        "position": {
+            "x": 18,
+            "y": 170
+        },
+        "width": 220,
+        "textColor": {
+            "r": 30,
+            "g": 30,
+            "b": 30
+        },
+        "blendColor": {
+            "r": 200,
+            "g": 200,
+            "b": 200
+        }
+    },
+    "gridIcon": {
+        "blendColor": {
+            "r": 200,
+            "g": 200,
+            "b": 200
+        }
+    },
+    "bannerListIcon": {
+        "blendColor": {
+            "r": 200,
+            "g": 200,
+            "b": 200
+        }
+    },
+    "bannerListTextLine0": {
+        "textColor": {
+            "r": 30,
+            "g": 30,
+            "b": 30
+        }
+    },
+    "bannerListTextLine1": {
+        "textColor": {
+            "r": 30,
+            "g": 30,
+            "b": 30
+        }
+    },
+    "bannerListTextLine2": {
+        "textColor": {
+            "r": 30,
+            "g": 30,
+            "b": 30
+        }
+    },
+    "topCover": {
+        "position": {
+            "x": 11,
+            "y": 11
+        }
+    }
+}
