@@ -13,11 +13,8 @@
     "nes": {
       "appPath": "/_pico/emulators/nesDS.nds"
     },
-        "ngp": {
-      "appPath": "/_pico/emulators/NGPDS.nds"
-    },
-    "ngc": {
-      "appPath": "/_pico/emulators/NGPDS.nds"
+        "fds": {
+      "appPath": "/_pico/emulators/nesDS.nds"
     }
   }
 }
