@@ -1,12 +1,10 @@
-# Pico Launcher
-This repository contains Pico Launcher, which is a front-end for [Pico Loader](https://github.com/LNH-team/pico-loader).
+# The Homebrew Unlauncher
+This repository contains The Homebrew Unlauncher, a [Pico Launcher](https://github.com/LNH-team/pico-loader) fork with [NDS-Bootstrap](https://github.com/DS-Homebrew/nds-bootstrap) support.
 
-![Horizontal display mode with custom theme](docs/images/HorizontalCustom.png)
-![Banner list display mode](docs/images/List.png)
-![Coverflow display mode](docs/images/Coverflow.png)
+![The Homebrew Unlauncher Banner](docs/banner.png)
 
 ## Features
-- Can load homebrew and retail games using [Pico Loader](https://github.com/LNH-team/pico-loader).
+- Can load homebrew and retail games using [NDS-Bootstrap](https://github.com/DS-Homebrew/nds-bootstrap) or using [Pico Loader](https://github.com/LNH-team/pico-loader).
 - Various display modes
     - Horizontal and vertical icon grid
     - Banner list
@@ -36,8 +34,6 @@ The launcher can be found in the root directory under the name `LAUNCHER.nds`.
     - If you are using DSpico, rename to `_picoboot.nds` and place it in the root of your SD card.
 3. Copy the `_pico` pico folder to the root of your SD card.
 
-> [!NOTE]
-> To use Pico Launcher, the Pico Loader files (`aplist.bin`, `savelist.bin`, `picoLoader7.bin` and `picoLoader9.bin`) must also be present in the `/_pico` folder on your SD card.
 
 For DSpico the final directory structure will look like this:
 ```
@@ -45,21 +41,7 @@ For DSpico the final directory structure will look like this:
 ├── _pico
 │   ├── themes
 │   │   ├── material
-│   │   │   └── theme.json
-│   │   └── raspberry
-│   │       ├── bannerListCell.bin
-│   │       ├── bannerListCellPltt.bin
-│   │       ├── bannerListCellSelected.bin
-│   │       ├── bannerListCellSelectedPltt.bin
-│   │       ├── bottombg.bin
-│   │       ├── gridcell.bin
-│   │       ├── gridcellPltt.bin
-│   │       ├── gridcellSelected.bin
-│   │       ├── gridcellSelectedPltt.bin
-│   │       ├── scrim.bin
-│   │       ├── scrimPltt.bin
-│   │       ├── theme.json
-│   │       └── topbg.bin
+│   │   └── brewing-waves
 │   ├── aplist.bin
 │   ├── savelist.bin
 │   ├── picoLoader7.bin
@@ -74,7 +56,16 @@ Icons by [icons8](https://icons8.com/)
 
 This project is licensed under the Zlib license. For details, see `LICENSE.txt`.
 
-Additional licenses may apply to the project. For details, see the `license` directory.
+Additional licenses may apply to the project. For details, see the following files:
+ArduinoJson.txt (MIT)
+Material.txt (Apache)
+NDS-Bootstrap.txt (GNU GPL3)
+Ubuntu.txt (UFL) (More info are in Ubuntu-Copyright.txt,Ubuntu-FAQ.txt,Ubuntu-Fontlog.txt and Ubuntu-Trademarks.txt)
+dsi_sdmmc.txt (MIT)
+mini-printf.txt (BSD 3-Clause)
+newlib.txt (Multiple licenses,read the text file for more info)
+tlsf.txt (BSD 3-Clause)
+The Homebrew Unlauncher also includes Pico Loader,it uses the same license at this project,at LICENSE.txt
 
 ## Contributors
 - [@Gericom](https://github.com/Gericom)
