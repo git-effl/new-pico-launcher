@@ -1,0 +1,4 @@
+nesDS is released into the PUBLIC DOMAIN.  You may do anything you want with it.
+If you make any changes you'd like to see added to the official version, please
+let me know.
+-- nesds@olimar.fea.st
