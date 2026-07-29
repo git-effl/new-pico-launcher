@@ -43,6 +43,9 @@ For DSpico the final directory structure will look like this:
 │   │   ├── material
 │   │   └── brewing-waves
 │   ├── aplist.bin
+│   ├── nds-bootstrap-release.nds
+│   ├── nds-bootstrap-hb-release.nds
+│   ├── release-bootstrap.ver
 │   ├── savelist.bin
 │   ├── picoLoader7.bin
 │   └── picoLoader9.bin
