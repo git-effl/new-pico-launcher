@@ -3,10 +3,33 @@
   "romBrowserLayout": "HorizontalIconGrid",
   "romBrowserSortMode": "NameAscending",
   "theme": "brewing-waves",
-  "lastUsedFilePath": "sd:/ntrboot.nds",
   "fileAssociations": {
-    "nds": {
-      "appPath": "/_pico/nds-bootstrap-release.nds"
+    "gb": {
+      "appPath": "/_pico/emulators/gameyob.nds"
+    },
+    "gbc": {
+      "appPath": "/_pico/emulators/gameyob.nds"
+    },
+    "nes": {
+      "appPath": "/_pico/emulators/nesDS.nds"
+    },
+        "sms": {
+      "appPath": "/_pico/emulators/S8DS.nds"
+    },
+    "gg": {
+      "appPath": "/_pico/emulators/S8DS.nds"
+    },
+    "sg": {
+      "appPath": "/_pico/emulators/S8DS.nds"
+    },
+    "sc": {
+      "appPath": "/_pico/emulators/S8DS.nds"
+    },
+        "ngp": {
+      "appPath": "/_pico/emulators/NGPDS.nds"
+    },
+    "ngc": {
+      "appPath": "/_pico/emulators/NGPDS.nds"
     }
   }
 }
