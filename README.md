@@ -75,6 +75,8 @@ Additional licenses may apply to the project. For details, see the following fil
 - tlsf.txt (BSD 3-Clause)
 - libtwl.txt (zlib)
 - PicoLoader.txt (zlib)
+- Gameyob.txt (MIT)
+- nesDS (Public Domain)
 - The Brewing Waves theme is made with the Pico Launcher Theme Creator    
 - App URL: https://santiagovalencia109.github.io/pl-Theme-Creator/
 - GitHub Repository: https://github.com/santiagovalencia109/pl-Theme-Creator/
