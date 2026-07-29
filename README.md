@@ -60,19 +60,19 @@ Icons by [icons8](https://icons8.com/)
 This project is licensed under the Zlib license. For details, see `LICENSE.txt`.
 
 Additional licenses may apply to the project. For details, see the following files:
--ArduinoJson.txt (MIT)
--Material.txt (Apache)
--NDS-Bootstrap.txt (GNU GPL3)
--Ubuntu.txt (UFL) (More info are in Ubuntu-Copyright.txt,Ubuntu-FAQ.txt,Ubuntu-Fontlog.txt and Ubuntu-Trademarks.txt)
--dsi_sdmmc.txt (MIT)
--mini-printf.txt (BSD 3-Clause)
--newlib.txt (Multiple licenses,read the text file for more info)
--tlsf.txt (BSD 3-Clause)
--libtwl.txt (zlib)
--The Homebrew Unlauncher also includes Pico Loader,it uses the same license at this project,at LICENSE.txt
--The Brewing Waves theme is made with the Pico Launcher Theme Creator    
--App URL: https://santiagovalencia109.github.io/pl-Theme-Creator/
--GitHub Repository: https://github.com/santiagovalencia109/pl-Theme-Creator/
+- ArduinoJson.txt (MIT)
+- Material.txt (Apache)
+- NDS-Bootstrap.txt (GNU GPL3)
+- Ubuntu.txt (UFL) (More info are in Ubuntu-Copyright.txt,Ubuntu-FAQ.txt,Ubuntu-Fontlog.txt and Ubuntu-Trademarks.txt)
+- dsi_sdmmc.txt (MIT)
+- mini-printf.txt (BSD 3-Clause)
+- newlib.txt (Multiple licenses,read the text file for more info)
+- tlsf.txt (BSD 3-Clause)
+- libtwl.txt (zlib)
+- The Homebrew Unlauncher also includes Pico Loader,it uses the same license at this project,at LICENSE.txt
+- The Brewing Waves theme is made with the Pico Launcher Theme Creator    
+- App URL: https://santiagovalencia109.github.io/pl-Theme-Creator/
+- GitHub Repository: https://github.com/santiagovalencia109/pl-Theme-Creator/
 
 ## Contributors
 - [@Gericom](https://github.com/Gericom)
