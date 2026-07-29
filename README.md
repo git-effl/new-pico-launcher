@@ -69,7 +69,7 @@ Additional licenses may apply to the project. For details, see the following fil
 - newlib.txt (Multiple licenses,read the text file for more info)
 - tlsf.txt (BSD 3-Clause)
 - libtwl.txt (zlib)
-- The Homebrew Unlauncher also includes Pico Loader,it uses the same license at this project,at LICENSE.txt
+- PicoLoader.txt (zlib)
 - The Brewing Waves theme is made with the Pico Launcher Theme Creator    
 - App URL: https://santiagovalencia109.github.io/pl-Theme-Creator/
 - GitHub Repository: https://github.com/santiagovalencia109/pl-Theme-Creator/
