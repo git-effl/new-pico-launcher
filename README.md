@@ -1,5 +1,5 @@
 # The Homebrew Unlauncher
-This repository contains The Homebrew Unlauncher, a [Pico Launcher](https://github.com/LNH-team/pico-loader) fork that can also run NES,GameBoy,Genesis/Mega Drive,Game Gear,Master System and Wonderswan games.
+This repository contains The Homebrew Unlauncher, a [Pico Launcher](https://github.com/LNH-team/pico-loader) fork that can also run NES,Famicom Disk System,Game Boy,Game Boy Color and Atari 2600 games.
 
 ![The Homebrew Unlauncher Banner](docs/banner.png)
 
