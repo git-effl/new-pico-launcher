@@ -4,7 +4,7 @@ This repository contains The Homebrew Unlauncher, a [Pico Launcher](https://gith
 ![The Homebrew Unlauncher Banner](docs/banner.png)
 
 ## Features
-- Can load homebrew and retail games using [NDS-Bootstrap](https://github.com/DS-Homebrew/nds-bootstrap) or using [Pico Loader](https://github.com/LNH-team/pico-loader).
+- Can load homebrew and retail games using [NDS-Bootstrap](https://github.com/DS-Homebhttps://github.com/git-effl/the-homebrew-unlauncher/blob/develop/README.mdrew/nds-bootstrap) or using [Pico Loader](https://github.com/LNH-team/pico-loader).
 - Various display modes
     - Horizontal and vertical icon grid
     - Banner list
@@ -65,6 +65,7 @@ dsi_sdmmc.txt (MIT)
 mini-printf.txt (BSD 3-Clause)
 newlib.txt (Multiple licenses,read the text file for more info)
 tlsf.txt (BSD 3-Clause)
+libtwl.txt (zlib)
 The Homebrew Unlauncher also includes Pico Loader,it uses the same license at this project,at LICENSE.txt
 
 ## Contributors
