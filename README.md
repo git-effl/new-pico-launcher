@@ -1,10 +1,11 @@
 # The Homebrew Unlauncher
-This repository contains The Homebrew Unlauncher, a [Pico Launcher](https://github.com/LNH-team/pico-loader) fork with [NDS-Bootstrap](https://github.com/DS-Homebrew/nds-bootstrap) support.
+This repository contains The Homebrew Unlauncher, a [Pico Launcher](https://github.com/LNH-team/pico-loader) fork that can also run NES,GameBoy,Genesis/Mega Drive,Game Gear,Master System and Wonderswan games.
 
 ![The Homebrew Unlauncher Banner](docs/banner.png)
 
 ## Features
-- Can load homebrew and retail games using [NDS-Bootstrap](https://github.com/DS-Homebhttps://github.com/git-effl/the-homebrew-unlauncher/blob/develop/README.mdrew/nds-bootstrap) or using [Pico Loader](https://github.com/LNH-team/pico-loader).
+- Can load homebrew and retail games using [Pico Loader](https://github.com/LNH-team/pico-loader).
+- Includes various emulators to run NES,GameBoy,Genesis/Mega Drive,Game Gear,Master System and Wonderswan games.*
 - Various display modes
     - Horizontal and vertical icon grid
     - Banner list
@@ -15,6 +16,10 @@ This repository contains The Homebrew Unlauncher, a [Pico Launcher](https://gith
 - [Material Design 3 and custom themes](docs/Themes.md)
 - Support for background music (see [Themes](docs/Themes.md))
 - Support for cheats (See [Cheats](docs/Cheats.md))
+
+  # DISCLAIMER!
+The Homebrew Unlauncher is provided for educational and personal use only. It does NOT conatin any ROMs protected by copyright or Proprietary System files. Users should use their legally dumped ROMs and game backups.
+# I DO NOT ENDORSE PIRACY,SOFTWARE DISTRIBUTION OR ANY OTHER ILLEGAL ACTIVITIES,OK?
 
 General usage documentation can be found here: [Usage](docs/Usage.md).
 
