@@ -30,11 +30,11 @@ jobs:
           name: Pico_Launcher
       - name: Package for release
         run: |
-          mkdir Pico_Launcher
-          cp -r _pico/ LAUNCHER.nds Pico_Launcher
-          cd Pico_Launcher && zip -r $PWD.zip *
+          mkdir Homebrew_Unlauncher
+          cp -r _pico/ LAUNCHER.nds Homebrew_Unlauncher
+          cd Homebrew_Unlauncher && zip -r $PWD.zip *
       - name: Release
         uses: softprops/action-gh-release@v2
         with:
           files: |
-            Pico_Launcher.zip
+            Homebrew_Unlauncher.zip
