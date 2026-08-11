@@ -3,7 +3,8 @@ name: Build Pico Launcher release
 on:
   release:
     types: [published]
-
+  workflow_dispatch:
+  
 jobs:
   pico_launcher:
     runs-on: ubuntu-latest
