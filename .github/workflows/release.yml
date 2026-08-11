@@ -28,6 +28,8 @@ jobs:
             _pico/
             LAUNCHER.nds
           name: Pico_Launcher
+      - name: Add safe directory exception
+        run: git config --global --add safe.directory /__w/the-homebrew-unlauncher/the-homebrew-unlauncher
       - name: Package for release
         run: |
           mkdir Homebrew_Unlauncher
