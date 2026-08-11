@@ -68,7 +68,6 @@ This project is licensed under the Zlib license. For details, see `LICENSE.txt`.
 Additional licenses may apply to the project. For details, see the following files:
 - ArduinoJson.txt (MIT)
 - Material.txt (Apache)
-- NDS-Bootstrap.txt (GNU GPL3)
 - Ubuntu.txt (UFL) (More info are in Ubuntu-Copyright.txt,Ubuntu-FAQ.txt,Ubuntu-Fontlog.txt and Ubuntu-Trademarks.txt)
 - dsi_sdmmc.txt (MIT)
 - mini-printf.txt (BSD 3-Clause)
@@ -77,7 +76,10 @@ Additional licenses may apply to the project. For details, see the following fil
 - libtwl.txt (zlib)
 - PicoLoader.txt (zlib)
 - Gameyob.txt (MIT)
-- nesDS (Public Domain)
+- nesDS.txt (Public Domain)
+- HMP.txt (MIT)
+- tuna-viDS.txt (GNU GPL2)
+- lolSNES.txt (GNU GPL3) 
 - The Brewing Waves theme is made with the Pico Launcher Theme Creator    
 - App URL: https://santiagovalencia109.github.io/pl-Theme-Creator/
 - GitHub Repository: https://github.com/santiagovalencia109/pl-Theme-Creator/
