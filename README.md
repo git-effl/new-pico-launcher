@@ -6,7 +6,7 @@ This repository contains The Homebrew Unlauncher, a [Pico Launcher](https://gith
 The Homebrew Unlauncher is provided for educational and personal use only. It does NOT contain any ROMs or Media protected by copyright or Proprietary System files. Users should use their legally dumped ROMs and game backups.
 # I DO NOT ENDORSE PIRACY,SOFTWARE DISTRIBUTION OR ANY OTHER ILLEGAL ACTIVITIES,OK?
 Plus, The Homebrew Unlauncher Development (including the forked emulators and video players) were accelerated with LLMs,
-# this does not mean that this is AI SLOP. This project was also made by a real human! (no way.) LLMs were just used to accelerate code production.
+# this does not mean that this is AI SLOP. This project was also made by a real human! LLMs were just used to accelerate code production.
 Thank you.
 
 ## Features
