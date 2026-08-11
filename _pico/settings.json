@@ -11,10 +11,16 @@
       "appPath": "/_pico/emulators/gameyob.nds"
     },
     "nes": {
-      "appPath": "/_pico/emulators/nesDS.nds"
+      "appPath": "/_pico/emulators/nesDSTWL.nds"
     },
-        "fds": {
-      "appPath": "/_pico/emulators/nesDS.nds"
-    }
+    "fds": {
+      "appPath": "/_pico/emulators/nesDSTWL.nds"
+    },
+    "avi": {
+      "appPath": "/_pico/emulators/tuna-vids.nds"
+    },
+    "avi": {
+      "appPath": "/_pico/emulators/HomebrewMediaPlayer.nds"
+    },
   }
 }
