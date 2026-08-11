@@ -19,8 +19,8 @@
     "avi": {
       "appPath": "/_pico/emulators/tuna-vids.nds"
     },
-    "avi": {
+    "rvid": {
       "appPath": "/_pico/emulators/HomebrewMediaPlayer.nds"
-    },
+    }
   }
 }
