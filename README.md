@@ -1,5 +1,5 @@
 # The Homebrew Unlauncher
-This repository contains The Homebrew Unlauncher, a [Pico Launcher](https://github.com/LNH-team/pico-loader) fork that can also run NES,Famicom Disk System,Game Boy and Game Boy Color games.
+This repository contains The Homebrew Unlauncher, a [Pico Launcher](https://github.com/LNH-team/pico-loader) fork that can also run NES,Famicom Disk System,Game Boy Game Boy Color,SNES games and RVID and AVI Videos
 
 ![The Homebrew Unlauncher Banner](docs/banner.png)
 
