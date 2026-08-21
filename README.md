@@ -1,5 +1,5 @@
 # New Pico Launcher
-A [Pico Launcher](https://github.com/LNH-team/pico-loader) fork that can also run NES,Famicom Disk System,Game Boy Game Boy Color,SNES games and RVID and AVI Videos
+A [Pico Launcher](https://github.com/LNH-team/pico-launcher) fork that can also run NES,Famicom Disk System,Game Boy Game Boy Color,SNES games and RVID and AVI Videos
 
 
 # DISCLAIMER!
@@ -10,7 +10,7 @@ Plus, The Homebrew Unlauncher Development (including the forked emulators and vi
 Thank you.
 
 ## Features
-- Can load homebrew and retail games using [Pico Loader](https://github.com/LNH-team/pico-loader).
+- Can load homebrew and retail games using [NDS Bootstrap](https://github.com/DS-Homebrew/nds-bootstrap).
 - Includes various emulators to run NES,Famicom Disk System,Game Boy and Game Boy Color Games.
   (If you wanna use the emulators,please,check the Disclaimer*.)
 - Various display modes
@@ -51,16 +51,11 @@ For DSpico the final directory structure will look like this:
 │   ├── themes
 │   │   ├── material
 │   │   └── brewing-waves
-│   ├── aplist.bin
 │   ├── nds-bootstrap-release.nds
 │   ├── nds-bootstrap-hb-release.nds
 │   ├── release-bootstrap.ver
-│   ├── savelist.bin
-│   ├── picoLoader7.bin
-│   └── picoLoader9.bin
 └── _picoboot.nds
 ```
-Note: If you want to play DSiWare on the DSpico, additional files are required. See the [Pico Loader](https://github.com/LNH-team/pico-loader) readme for more information.
 
 ## License
 
@@ -83,7 +78,8 @@ Additional licenses may apply to the project. For details, see the following fil
 - HMP.txt (MIT)
 - tuna-viDS.txt (GNU GPL2)
 - lolSNES.txt (GNU GPL3)
-- NDS-Bootstrap.txt 
+- NDS-Bootstrap.txt (GNU GPL3)
+- Quicksand.txt (SIL OFL 1.1)
 - The Brewing Waves theme is made with the Pico Launcher Theme Creator    
 - App URL: https://santiagovalencia109.github.io/pl-Theme-Creator/
 - GitHub Repository: https://github.com/santiagovalencia109/pl-Theme-Creator/
