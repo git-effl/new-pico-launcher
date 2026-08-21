@@ -1,9 +1,9 @@
-# The Homebrew Unlauncher
-This repository contains The Homebrew Unlauncher, a [Pico Launcher](https://github.com/LNH-team/pico-loader) fork that can also run NES,Famicom Disk System,Game Boy Game Boy Color,SNES games and RVID and AVI Videos
+# New Pico Launcher
+A [Pico Launcher](https://github.com/LNH-team/pico-loader) fork that can also run NES,Famicom Disk System,Game Boy Game Boy Color,SNES games and RVID and AVI Videos
 
 
-# DISCLAIMER!*
-The Homebrew Unlauncher is provided for educational and personal use only. It does NOT contain any ROMs or Media protected by copyright or Proprietary System files. Users should use their legally dumped ROMs and game backups.
+# DISCLAIMER!
+New Pico Launcher is provided for educational and personal use only. It does NOT contain any ROMs or Media protected by copyright or Proprietary System files. Users should use their legally dumped ROMs and game backups.
 # I DO NOT ENDORSE PIRACY,SOFTWARE DISTRIBUTION OR ANY OTHER ILLEGAL ACTIVITIES,OK?
 Plus, The Homebrew Unlauncher Development (including the forked emulators and video players) were accelerated with LLMs,
 # this does not mean that this is AI SLOP. This project was also made by a real human! LLMs were just used to accelerate code production.
@@ -82,7 +82,8 @@ Additional licenses may apply to the project. For details, see the following fil
 - nesDS.txt (Public Domain)
 - HMP.txt (MIT)
 - tuna-viDS.txt (GNU GPL2)
-- lolSNES.txt (GNU GPL3) 
+- lolSNES.txt (GNU GPL3)
+- NDS-Bootstrap.txt 
 - The Brewing Waves theme is made with the Pico Launcher Theme Creator    
 - App URL: https://santiagovalencia109.github.io/pl-Theme-Creator/
 - GitHub Repository: https://github.com/santiagovalencia109/pl-Theme-Creator/
