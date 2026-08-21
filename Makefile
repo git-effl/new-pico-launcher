@@ -12,8 +12,8 @@ export LIBTWL           ?= $(shell pwd)/libs/libtwl
 
 NAME		:= 	LAUNCHER
 
-GAME_TITLE	:= The Homebrew Unlauncher
-GAME_AUTHOR	:= effL
+GAME_TITLE	:= New Pico Launcher
+GAME_AUTHOR	:= LNH Team/effL
 GAME_ICON	:= icon.bmp
 
 # DLDI and internal SD slot of DSi
