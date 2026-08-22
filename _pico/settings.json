@@ -2,7 +2,7 @@
   "language": "english",
   "romBrowserLayout": "HorizontalIconGrid",
   "romBrowserSortMode": "NameAscending",
-  "theme": "brewing-waves",
+  "theme": "material",
   "fileAssociations": {
     "gb": {
       "appPath": "/_pico/emulators/gameyob.nds"
