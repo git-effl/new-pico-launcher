@@ -10,7 +10,7 @@ Plus, New Pico Launcher Development (including the forked emulators and video pl
 Thank you.
 
 ## Features
-- Can load homebrew and retail games using [NDS Bootstrap](https://github.com/DS-Homebrew/nds-bootstrap).
+- Can load homebrew and retail games using [Pico Loader](https://github.com/LNH-team/pico-loader).
 - Includes various emulators to run NES,Famicom Disk System,Game Boy and Game Boy Color Games.
   (If you wanna use the emulators,please,check the Disclaimer*.)
 - Various display modes
