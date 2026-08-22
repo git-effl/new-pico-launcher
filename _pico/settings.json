@@ -20,7 +20,7 @@
       "appPath": "/_pico/emulators/tuna-vids.nds"
     },
     "rvid": {
-      "appPath": "/_pico/emulators/HomebrewMediaPlayer.nds"
+      "appPath": "/_pico/emulators/RocketVideoPlayer.nds"
     }
   }
 }
