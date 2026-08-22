@@ -78,7 +78,6 @@ Additional licenses may apply to the project. For details, see the following fil
 - HMP.txt (MIT)
 - tuna-viDS.txt (GNU GPL2)
 - lolSNES.txt (GNU GPL3)
-- NDS-Bootstrap.txt (GNU GPL3)
 - Quicksand.txt (SIL OFL 1.1)
 - The Brewing Waves theme is made with the Pico Launcher Theme Creator    
 - App URL: https://santiagovalencia109.github.io/pl-Theme-Creator/
